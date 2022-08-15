@@ -1,3 +1,5 @@
+package 静态;
+
 /**
  * @author kevintam
  * @version 1.0
